@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+}
+
+#container {
+  margin: 5em;
+}
+
+.todo {
+  margin-top: 2em;
+  display: flex;
+  justify-content: space-between;
+}
+
+#input {
+  width: 90%;
+  padding: 0.5em;
+}
+
+#add {
+  padding: 0.5em;
+}
+
+.clickable {
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+}
